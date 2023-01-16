@@ -34,7 +34,7 @@ cfg_re50 = {
     'decay1': 70,
     'decay2': 90,
     'image_size': 840,
-    'pretrain': True,
+    'pretrain': False,
     'return_layers': {'layer2': 1, 'layer3': 2, 'layer4': 3},
     'in_channel': 256,
     'out_channel': 256
